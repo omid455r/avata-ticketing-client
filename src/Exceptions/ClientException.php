@@ -2,6 +2,6 @@
 
 namespace Avata\Ticketing\Exceptions;
 
-class ConnectionException extends \Exception {
+class ClientException extends \Exception {
 
 }
