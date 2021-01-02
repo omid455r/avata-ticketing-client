@@ -1,0 +1,29 @@
+{
+  "name": "ayzanet/avata-ticketing-client",
+  "description": "Avata Ticketing Client Library",
+  "homepage": "https://github.com/ayzanet/avata-ticketing-client",
+  "license": "MIT",
+  "keywords": [
+    "support",
+    "ticketing",
+    "ticket",
+    "accounting",
+    "avata"
+  ],
+  "authors": [
+    {
+      "name": "Alireza Dana",
+      "email": "ayzanett@gmail.com",
+      "homepage": "https://github.com/ayzanet",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ayzanet\\Ticketing\\": "src"
+    }
+  }
+}
