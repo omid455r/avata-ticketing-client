@@ -1,1 +1,1 @@
-# Avata Support Client
+# Avata Ticketing Client
