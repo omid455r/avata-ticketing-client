@@ -1,5 +1,5 @@
 {
-  "name": "ayzanet/avata-ticketing-client",
+  "name": "avata/ticketing-client",
   "description": "Avata Ticketing Client Library",
   "homepage": "https://github.com/ayzanet/avata-ticketing-client",
   "license": "MIT",
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Ayzanet\\Ticketing\\": "src"
+      "Avata\\Ticketing\\": "src"
     }
   }
 }
